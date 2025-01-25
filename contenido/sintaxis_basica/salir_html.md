@@ -24,3 +24,5 @@ Output:
 ```md
 Esto se mostrará si la expresión es verdadera
 ```
+
+[⬅️ Regresar al contenido.](../sintaxis_basica.md)

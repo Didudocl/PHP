@@ -14,3 +14,5 @@ echo "última sentencia";
 
 // el script finaliza aquí sin etiqueta de cierre de PHP
 ```
+
+[⬅️ Regresar al contenido.](../sintaxis_basica.md)

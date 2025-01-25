@@ -19,3 +19,5 @@ Esto es una prueba
 Esto es una prueba
 Hemos omitido la última etiqueta de cierre
 ```
+
+[⬅️ Regresar al contenido.](../sintaxis_basica.md)

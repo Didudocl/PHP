@@ -67,3 +67,5 @@ PHP 8 ha hecho que el lenguaje sea competitivo con otras tecnologías modernas y
 ## PHP hoy
 
 Hoy en día, PHP es uno de los lenguajes más utilizados en el mundo, impulsando plataformas gigantes como WordPress, Drupal, Joomla, y servicios como Facebook (en sus inicios). Según estadísticas, aproximadamente el 77% de los sitios web en la web utilizan PHP de alguna forma.
+
+[⬅️ Regresar al contenido.](../README.md)

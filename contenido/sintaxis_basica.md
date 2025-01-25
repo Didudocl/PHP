@@ -8,3 +8,5 @@ Temas a revisar sobre sintaxis básica en PHP:
 - [Salir de HTML](./sintaxis_basica/salir_html.md)
 - [Separación de instrucciones](./sintaxis_basica/separacion_instrucciones.md)
 - [Comentarios](./sintaxis_basica/comentarios.md)
+
+[⬅️ Regresar al contenido.](../README.md)

@@ -32,3 +32,5 @@ function saludar($nombre) {
     return "¡Hola, $nombre!";
 }
 ```
+
+[⬅️ Regresar al contenido.](../sintaxis_basica.md)
