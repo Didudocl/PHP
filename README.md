@@ -9,7 +9,7 @@ Este repositorio está diseñado para aprender PHP a través de su documentació
 
 - [Historia de PHP](./contenido/historia.md)
 - [Sintaxis básica](./contenido/sintaxis_basica.md)
-- [Tipos](./contenido/tipos.md)
+- [Tipos de datos](./contenido/tipos.md)
 - [Variables](./contenido/variables.md)
 - [Constantes](./contenido/constantes.md)
 - [Expresiones](./contenido/expresiones.md)
